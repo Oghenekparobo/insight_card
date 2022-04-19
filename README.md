@@ -25,8 +25,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/Oghenekparobo/insight_card)
+- Live Site URL: [live site URL](https://your-live-site-url.com)
 
 ## My process
 
@@ -42,6 +42,6 @@
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [stephen](https://github.com/Oghenekparobo/)
+- Frontend Mentor - [@Oghenekparobo](https://www.frontendmentor.io/profile/Oghenekparobo)
+- Twitter - [@stephenjyd](https://twitter.com/stephenjyd)
